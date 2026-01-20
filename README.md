@@ -106,3 +106,18 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# Amith Kumar Das Orko
+
+## About Me
+I am a software engineering graduate in GVSU who enjoys learning new technologies and building practical software solutions.
+
+## What I’m Interested in Learning
+Game development
+
+## What I’m Working On
+IOS development 
+
+## Favorite Hobby
+Soccer 
+
