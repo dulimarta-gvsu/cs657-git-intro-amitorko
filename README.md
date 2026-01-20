@@ -107,7 +107,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-# Amith Kumar Das Orko
+# Amith Kumar Das Orko G02591783
 
 ## About Me
 I am a software engineering graduate in GVSU who enjoys learning new technologies and building practical software solutions.
